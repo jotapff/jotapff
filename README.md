@@ -4,8 +4,8 @@
     📍  São Miguel, Azores
     📶 Telecom Engineer @ NOS-Acores
     🛠️ Skills: 
-      🐧 Linux      💻 Windows      🌐 Network      ☁️ Cloud computing 
-      🐍 Python     🐳 Docker       ☸  Kubernetes   🌍 Terraform 
+      🐧 Linux - 💻 Windows - 🌐 Network - ☁️ Cloud computing 
+      🐍 Python - 🐳 Docker - ☸  Kubernetes - 🌍 Terraform 
     🏆 Honors & awards:
       🥇 Network management - AzoresSkills 2017
       🥈 Network management - PortugalSkills 2018
